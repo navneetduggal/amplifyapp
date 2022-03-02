@@ -1,0 +1,2 @@
+# amplifyapp
+Host static website
